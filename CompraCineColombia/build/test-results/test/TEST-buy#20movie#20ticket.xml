@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="buy movie ticket" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-22T04:34:48" hostname="RC-PC" time="31.006">
+  <properties/>
+  <testcase name="select movie" classname="buy movie ticket" time="31.006"/>
+  <system-out><![CDATA[La pelicula
+]]></system-out>
+  <system-err><![CDATA[nov 21, 2018 11:34:49 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 3212
+Only local connections are allowed.
+nov 21, 2018 11:34:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: select movie
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
